@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """simple flask app
 """
-from flask import Flask, return_template
+from flask import Flask
 
 
 @app.route("/", strict_slashes=False)
